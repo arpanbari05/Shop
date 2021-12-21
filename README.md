@@ -1,9 +1,33 @@
+An Assignment Project from Fyntune Pvt Ltd
+
+This project illustrates the use of React.js, Redux
+A Simple shop handler project where user can add the shop, delete shop and filter shop on the basis of the Area, category, opening date and closing date
+
+**Preview of Shop List**
+![Screenshot from 2021-12-21 13-43-55](https://user-images.githubusercontent.com/76901175/146918046-35481fe7-bb6d-46db-9eed-f7f199a56353.png)
+
+
+**Filter Preview**
+![Screenshot from 2021-12-21 13-45-09](https://user-images.githubusercontent.com/76901175/146918175-b7f3a9f1-4d67-4973-8ab7-1e374aad90c4.png)
+
+
+**Preview of Shop List on mobile**
+![Screenshot from 2021-12-21 13-45-46](https://user-images.githubusercontent.com/76901175/146918298-01c82e8d-8a06-4c54-b3f3-163f08fe4c79.png)
+
+
+**Preview of Filtered List on mobile**
+![Screenshot from 2021-12-21 13-46-17](https://user-images.githubusercontent.com/76901175/146918329-c74e5ef7-5431-4794-b855-55296e319490.png)
+
+
+**Preview of Form on mobile**
+![Screenshot from 2021-12-21 13-47-46](https://user-images.githubusercontent.com/76901175/146918385-ce367b42-118e-414a-93ba-f259e61932da.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
